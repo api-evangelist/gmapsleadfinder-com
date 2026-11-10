@@ -1,4 +1,4 @@
-# gmapsleadfinder-com
+# GMaps Lead Finder
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,129 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 gmapsleadfinder-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://gmapsleadfinder.com/
+
+**Areas:** Maps Scraper · Data Enrichment
+
+## GMaps Lead Finder on APIs.io
+
+Everything profiled for GMaps Lead Finder is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gmapsleadfinder-com/](https://apis.io/providers/gmapsleadfinder-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [GMaps Lead Finder Jobs API](https://apis.io/apis/gmapsleadfinder-com/gmapsleadfinder-com-jobs-api/) — The Jobs API from GMaps Lead Finder — 3 operation(s) for jobs.
+- [GMaps Lead Finder MCP API](https://apis.io/apis/gmapsleadfinder-com/gmapsleadfinder-com-mcp-api/) — The Mcp API from GMaps Lead Finder — 1 operation(s) for mcp.
+- [GMaps Lead Finder Me API](https://apis.io/apis/gmapsleadfinder-com/gmapsleadfinder-com-me-api/) — The Me API from GMaps Lead Finder — 1 operation(s) for me.
+- [GMaps Lead Finder Photo Jobs API](https://apis.io/apis/gmapsleadfinder-com/gmapsleadfinder-com-photo-jobs-api/) — The Photo Jobs API from GMaps Lead Finder — 3 operation(s) for photo jobs.
+- [GMaps Lead Finder Review Jobs API](https://apis.io/apis/gmapsleadfinder-com/gmapsleadfinder-com-review-jobs-api/) — The Review Jobs API from GMaps Lead Finder — 3 operation(s) for review jobs.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [GMaps Lead Finder Agentic Access](https://apis.io/agentic-access/gmapsleadfinder-com/gmapsleadfinder-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CreateJobResponse](https://apis.io/schemas/gmapsleadfinder-com/gmapsleadfinder-com-create-job-response/)
+- [JobResponse](https://apis.io/schemas/gmapsleadfinder-com/gmapsleadfinder-com-job-response/)
+- [MeResponse](https://apis.io/schemas/gmapsleadfinder-com/gmapsleadfinder-com-me-response/)
+- [PhotosJobResponse](https://apis.io/schemas/gmapsleadfinder-com/gmapsleadfinder-com-photos-job-response/)
+- [ResultsResponse](https://apis.io/schemas/gmapsleadfinder-com/gmapsleadfinder-com-results-response/)
+- [ReviewsJobResponse](https://apis.io/schemas/gmapsleadfinder-com/gmapsleadfinder-com-reviews-job-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Gmapsleadfinder Com Context](https://apis.io/jsonld/gmapsleadfinder-com/gmapsleadfinder-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [GMaps Lead Finder API Rules](https://apis.io/rules/gmapsleadfinder-com/gmapsleadfinder-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [GMaps Lead Finder Authentication](https://apis.io/security/gmapsleadfinder-com/gmapsleadfinder-com-authentication/)
+- [GMaps Lead Finder Domain Security](https://apis.io/security/gmapsleadfinder-com/gmapsleadfinder-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [GMaps Lead Finder Plans Pricing](https://apis.io/plans/gmapsleadfinder-com/gmapsleadfinder-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gmapsleadfinder.com/)
+- [API reference](https://gmapsleadfinder.com/docs)
+- [Pricing](https://gmapsleadfinder.com/pricing)
+- [Terms of service](https://gmapsleadfinder.com/terms)
+- [Privacy policy](https://gmapsleadfinder.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 47.5** — developing · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 55.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 60.0 |
+
+**Agent readiness 29.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gmapsleadfinder-com/](https://apis.io/providers/gmapsleadfinder-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GMaps Lead Finder: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gmapsleadfinder-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
